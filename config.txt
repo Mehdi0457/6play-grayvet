@@ -3,4 +3,4 @@ prefix=6
 game=GType 6play
 stayinchannel=true
 songinstatus=false
-token=544533946243743745
+token=NTYwOTQ1NTE2NTM2NjU5OTc5.D37VIQ.WZpGfH-nEEWcqize0CcjkKsr-ss
