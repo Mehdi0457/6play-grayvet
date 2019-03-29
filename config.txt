@@ -1,6 +1,6 @@
 owner=544533946243743745
 prefix=6
-game=GType 6play
+game=Type 6play
 stayinchannel=true
 songinstatus=false
 token=NTYwOTQ1NTE2NTM2NjU5OTc5.D37VIQ.WZpGfH-nEEWcqize0CcjkKsr-ss
